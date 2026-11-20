@@ -29,11 +29,11 @@ I'm a **3rd-year Gameplay Programming student** at **Gaming Campus in Paris**, p
 
 ### 🚀 Featured Projects
 
-- **[Custom 3D Engine (`Moteur3D`)](https://github.com/yhoshiino/nom-du-repo)** — *C++ / C / SDL / CMake*  
+- **[Custom 3D Engine (`Moteur3D`)](https://github.com/yhoshiino/Moteur3DCPU)** — *C++ / C / SDL / CMake*  
   Custom rendering and math pipeline featuring SIMD vectorization, matrix transformations, and unit testing.
 
-- **[Arena Shooter (UE5.6)](https://github.com/yhoshiino/nom-du-repo)** — *Unreal Engine 5 / C++ / Blueprints*  
-  Developed enemy AI behaviors using Behavior Trees and core gameplay mechanics in a team production.
+- **[GameJam_Ghost](https://github.com/dark-dylan-dev/GameJam_Ghost)** — *Unreal Engine 5 / Blueprints*  
+  Implemented enemy behaviors, movement logic, and core gameplay mechanics in a team Game Jam production.
 
-- **[Divinity Shard](https://github.com/yhoshiino/nom-du-repo)** — *Unreal Engine 5 / Blueprints / UMG*  
+- **[Divinity Shard](https://github.com/Najimandroid/DivinitiesShards)** — *Unreal Engine 5 / Blueprints / UMG*  
   Implemented a modular Data Asset spawner system and event-driven UI widgets.

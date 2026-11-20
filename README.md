@@ -4,7 +4,7 @@ I'm a **3rd-year Gameplay Programming student** at **Gaming Campus in Paris**, p
 
 - 🎮 **Focus:** Gameplay Architecture, AI Systems, Custom 3D Engine & Tools
 - 🌱 **Currently working on:** A custom 3D Engine in C/C++ with SDL & SIMD optimization
-- 📫 **Reach me at:** [nicolas.peygourdi2@gmail.com](mailto:nicolas.peygourdi2@gmail.com) | [LinkedIn](www.linkedin.com/in/nicolas-peygourdi)
+- 📫 **Reach me at:** [nicolas.peygourdi2@gmail.com](mailto:nicolas.peygourdi2@gmail.com) | [LinkedIn](https://www.linkedin.com/in/nicolas-peygourdi)
 
 ---
 
